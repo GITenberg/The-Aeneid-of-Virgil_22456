@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: See also PG#18466 tr. by E. Fairfax Taylor
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22456#The-Aeneid-of-Virgil
 gutenberg_bookshelf:
 - Harvard Classics
 - Classical Antiquity
